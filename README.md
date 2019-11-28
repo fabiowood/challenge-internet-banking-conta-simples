@@ -15,7 +15,7 @@ Instruções para Acesso ao Projeto:
 
 6) O projeto está estruturado da seguinte forma:
 
-- src/app-data: contém os arquivos json utilizados para simular localmente as chamadas de uma API.
+- src/app-data: contém os arquivos json utilizados para simular localmente as chamadas de uma API.Um arquivo é o bank-account, no qual estão as informações cadastrais do usuário e de sua empresa, além do e-mail e senha de acesso ao portal do Conta Simples. O outro arquivo é o bank-account-transactions.json, que contém um série de lançamentos, para simular as movimentações de uma conta bancária.
 - src/component-styles: contém os arquivos .css utilizados para a formatação de estilos e padrões do projeto, em combinação com o Bootstrap e React-Bootstrap.
 - src/components: contém os componentes desenvolvidos para o projeto, com destaque para: Login/Home/NavBar/footer/AccountDisplay/AccountTotalDisplay
 - src/components/menu-list: contém os componentes que fazem parte do menu na área exclusiva do usuário. Esses componentes podem ser desenvolvidos em uma nova versão.
