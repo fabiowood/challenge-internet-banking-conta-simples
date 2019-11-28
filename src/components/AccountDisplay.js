@@ -11,6 +11,8 @@ class AccountDisplay extends Component {
     super(props);
   }
 
+  // This method evaluates each of the possible views requested by the user, first sorting the postings in descending order of date and then treating each posting to present the summarized views on the user statement.
+
   render() {
     if(this.props.displayTransactions.allTransactions) {
 

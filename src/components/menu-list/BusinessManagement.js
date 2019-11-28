@@ -80,6 +80,10 @@ class BusinessManagement extends Component  {
    }
   }
 
+  // At this moment, there should be an API Call. For the main purpose of this challenge, there will be only a local call to a .json file - bank-account.json.
+
+  // The goal is to simulate a logout from the user's private area.
+
   logoutUser() {
     this.props.history.push("/");
     this.props.allowAccess(false, []);

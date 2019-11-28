@@ -40,6 +40,10 @@ class App extends Component {
     this.checkLoggedIn = this.checkLoggedIn.bind(this);
   }
 
+  // At this moment, there should be an API Call. For the main purpose of this challenge, there will be only a local call to a .json file - bank-account.json.
+
+  // The goal is to simulate a validation of access to the user's private area.
+
   checkLoggedIn(accessState, account) {
     if(account.length === 0) {
       this.setState({
@@ -59,6 +63,10 @@ class App extends Component {
       });
     }
   }
+
+//  Since we are not using a backend authentication layer, we are simulating data passing and the "logged in" status to the user's private area for each Component.
+
+// In a real scenario, code modifications would be required to incorporate an effective authentication layer using best practices and industry tools (eg Passport).
 
   render() {
     return (

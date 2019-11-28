@@ -7,7 +7,6 @@ import logo from "../logo-conta-simples.svg";
 class Login extends Component {
   constructor(props) {
     super(props);
-    console.log(this.props.bankAccount);
     this.state = {
       email: "",
       password: "",
@@ -31,6 +30,8 @@ class Login extends Component {
     const typedPassword = this.state.password;
 
     // At this moment, there should be an API Call. For the main purpose of this challenge, there will be only a local call to a .json file - bank-account.json.
+
+    // The goal is to simulate a validation of access to the user's private area.
 
     const validateUserAccount = this.props.bankAccount.filter(
       (element) => (element.email === typedEmail) && (element.password === typedPassword));    
