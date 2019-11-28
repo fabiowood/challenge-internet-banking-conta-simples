@@ -7,7 +7,7 @@ Instruções para Acesso ao Projeto:
 
 2) Acessar o diretório local do projeto pelo terminal do seu computador.
 
-3) Inserir o comando npm start.
+3) Inserir o comando npm start no terminal, no diretório em que o projeto está instalado localmente.
 
 4) O usuário será direcionado ao browser automaticamente em: http://localhost:3000
 
