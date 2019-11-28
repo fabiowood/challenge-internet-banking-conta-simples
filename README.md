@@ -1,3 +1,35 @@
+Resumo:
+Este projeto foi desenvolvido para apresentar uma primeira versão de um internet banking para a empresa Conta Simples.
+
+Instruções para Acesso ao Projeto:
+
+1) Realizar um "Clone" do projeto em um diretório local (Git Clone <link do repositório no GitHub>).
+
+2) Acessar o diretório local do projeto pelo terminal do seu computador.
+
+3) Inserir o comando npm start.
+
+4) O usuário será direcionado ao browser automaticamente em: http://localhost:3000
+
+5) A primeira tela do projeto é a de Login. Para acessar a aplicação, é necessário inserir o e-mail do usuário e a senha de 6 dígitos. Esses dados podem ser encontrados na árvore do projeto, no seguinte caminho: src/app-data/bank-account.json
+
+6) O projeto está estruturado da seguinte forma:
+
+- src/app-data: contém os arquivos json utilizados para simular localmente as chamadas de uma API.
+- src/component-styles: contém os arquivos .css utilizados para a formatação de estilos e padrões do projeto, em combinação com o Bootstrap e React-Bootstrap.
+- src/components: contém os componentes desenvolvidos para o projeto, com destaque para: Login/Home/NavBar/footer/AccountDisplay/AccountTotalDisplay
+- src/components/menu-list: contém os componentes que fazem parte do menu na área exclusiva do usuário. Esses componentes podem ser desenvolvidos em uma nova versão.
+
+7) O arquivo package.json contém todas as dependências e packages utilizados para este projeto, e foi criado a partir do Create React App.
+
+Atenciosamente.
+
+Fabio Madeira.
+
+======================================================================================================================
+
+Standard Git-Hub Instructions:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
