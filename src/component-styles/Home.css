@@ -1,0 +1,302 @@
+
+/* ###################### NAV-BAR ###################### */
+
+.logo {
+  height: 150px;
+  width: 150px;
+  margin-top: -30px;
+  margin-left: 15px;
+}
+
+#fixed-nav-bar {
+  position: fixed;
+  height: 70px;  
+  top: 0;
+  width: 100%;
+  background-color: white;
+  z-index: 4;
+}
+
+.header-options {
+  padding: 0 10px 0 0;
+}
+
+#nav-general-items {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+#nav-custom {
+  color: grey;
+}
+
+#nav-custom-hello {
+  color: #7be115;
+  padding: 2px 35px;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+#dropdown-item-button {
+  background-color: white;
+  border: none;
+  color: grey;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: 2px;
+}
+
+.dropdown-item {
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+#logout-button {
+  border: none;
+  border-radius: 10px;
+  background-color: #7be115;
+  color: white;
+  font-weight: 700;
+  padding: 10px 20px;
+  margin-left: -70px;
+}
+
+#logout-button:hover {
+  background: #B26F93;
+  transition: 0.3s ease background;
+}
+
+#nav-bar {
+  margin-left: 50px;
+}
+
+/* ###################### END OF NAV-BAR ###################### */
+
+
+/* ###################### MAIN-HOME-SECTION ###################### */
+
+.divider {
+  padding-bottom: 120px;
+}
+
+.button-styles {
+  background-color: #7be115;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  padding: 20px 10px;
+}
+
+.home-section {
+  color: grey;
+  background-color: #fafafa;
+  width: 100%;
+  height: 150px;
+  padding: 10px 0;
+  margin-top: 100px;
+}
+
+#card-text-adjustments {
+  text-decoration: none;
+  background-color: none;
+  color: grey;
+  font-weight: 600;
+  font-size: 0.8rem;
+  margin-left: 25px;
+}
+
+.deposit-button {
+  margin-top: 40px;
+  margin-right: 60px;
+  width: 20px;
+  height: 50px;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.deposit-button:hover {
+  text-decoration: none;
+  color:white;
+  background: #B26F93;
+  transition: 0.3s ease background;
+}
+
+.main-page-button {
+  margin-top: 40px;
+  margin-right: 60px;
+  width: 20px;
+  height: 50px;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 0.9rem;
+  background-color:#696969;
+  color: white;
+  font-weight: 700;
+}
+
+.main-page-button:hover {
+  text-decoration: none;
+  color: white;
+  background: #B26F93;
+  transition: 0.3s ease background;
+}
+
+.return-button {
+  margin-left: 90px;
+  width: 100px;
+  height: 50px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 0.9rem;
+  background-color:#696969;
+  color: white;
+  font-weight: 700;
+}
+
+.return-button:hover {
+  text-decoration: none;
+  color: white;
+  background: #B26F93;
+  transition: 0.3s ease background;
+}
+
+.hide-button {
+  border: none;
+  background-color:white;
+}
+
+.path-text {
+  font-size: 0.85rem;
+}
+
+.custom-text-menu {
+  font-size: 0.85rem;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  margin-left: 90px;
+}
+
+#balance-display {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+/* ###################### END OF MAIN-HOME-SECTION ###################### */
+
+/* ###################### ACCOUNT DISPLAY/ACCOUNT TOTAL DISPLAY ###################### */
+
+#card-adjustments {
+  border: none;
+}
+
+#container-adjustments {
+  width: 55%;
+  text-align: center;
+  background-color: white;
+}
+
+.text-adjustments {
+  width: 300px;
+  height: 10px;
+  padding: 20px 10px;
+  margin-top: -5px;
+  margin-bottom: 20px;
+}
+
+#resume-transactions {
+  margin-left: 560px;
+  margin-top: 20px;
+  font-size: 0.9rem;
+  background-color:#696969;
+}
+
+#resume-transactions:hover {
+  background: #B26F93;
+  color: white;
+  transition: 0.3s ease background;
+}
+
+#receipts-style {
+ color: #006400;
+ font-size: 1.05rem;
+}
+
+#payments-style {
+  color: #8B0000;
+  font-size: 1rem;
+}
+
+#bank-state-button {
+  margin-left: 560px;
+  margin-top: 20px;
+  font-size: 0.9rem;
+}
+
+#bank-state-button:hover {
+  background: #B26F93;
+  color: white;
+  transition: 0.3s ease background;
+}
+
+/* ###################### END OF ACCOUNT DISPLAY/ACCOUNT TOTAL DISPLAY ###################### */
+
+/* ###################### FOOTER-SECTION ###################### */
+
+.footer {
+  background-color: #fafafa;
+  height: 120px;
+  border-radius: 2px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: absolute;
+  margin-bottom: 0px;
+}
+
+.footer:hover > a {
+  text-decoration: none;
+  transition: 0.3s ease background;
+}
+
+.footer-second-text {
+  font-size: 0.85rem;
+  padding: 10px 10px;
+  font-weight: 700;
+  color: grey;
+  text-decoration: none;
+  border-style: none;
+}
+
+.copyright {
+  font-size: 0.5rem;
+  color: grey;
+  margin-top: 40px;
+}
+
+.logo-footer {
+  height: 150px;
+  width: 160px;
+  margin-top: -30px;
+  margin-left: 35px;
+}
+
+/* ###################### END OF FOOTER-SECTION ###################### */
+
+/* ###################### PAGES UNDER CONSTRUCTION ###################### */
+
+.picture-adjustments {
+  background-image: url(../coming-soon-page.jpg);
+  margin-top: 10px;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+/* ###################### END OF PAGES UNDER CONSTRUCTION ###################### */

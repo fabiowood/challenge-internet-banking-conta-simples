@@ -1,0 +1,514 @@
+[
+  {
+    "accountNumber": "1000",
+    "balance": "R$ 10.000,00",
+    "operations": [
+      {
+        "title": "Pagamento Recebido",
+        "nature": "Recebimento",
+        "amount": "R$ 1.000,00",
+        "counterpart": "White Co",
+        "status": "Recebido",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Pagamento Recebido",
+        "nature": "Recebimento",
+        "amount": "R$ 1.000,00",
+        "counterpart": "Blue Co",
+        "status": "Recebido",
+        "delayedTransaction": "Sim",
+        "dueDate": {
+          "day": "25",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Pagamento Recebido",
+        "nature": "Recebimento",
+        "amount": "R$ 500,00",
+        "counterpart": "White Co",
+        "status": "Recebido",
+        "delayedTransaction": "Sim",
+        "dueDate": {
+          "day": "21",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "22",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Pagamento Recebido",
+        "nature": "Recebimento",
+        "amount": "R$ 500,00",
+        "counterpart": "Blue Co",
+        "status": "Recebido",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "21",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "21",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+      "title": "A Receber",
+      "nature": "Recebimento",
+      "amount": "R$ 2.000,00",
+      "counterpart": "White Co",
+      "status": "Vencimento Futuro",
+      "delayedTransaction": "Não",
+      "dueDate": {
+        "day": "05",
+        "month": "Dezembro",
+        "abrevMonth": "Dez",
+        "monthNum": "12",
+        "year": "2019"
+      },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "A Receber",
+        "nature": "Recebimento",
+        "amount": "R$ 2.000,00",
+        "counterpart": "Blue Co",
+        "status": "Vencimento Futuro",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "10",
+          "month": "Dezembro",
+          "abrevMonth": "Dez",
+          "monthNum": "12",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "Compra com Cartão",
+        "nature": "Pagamento",
+        "amount": "R$ 1.000,00",
+        "counterpart": "Blue Co",
+        "status": "Pago",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "22",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "22",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Compra com Cartão",
+        "nature": "Pagamento",
+        "amount": "R$ 500,00",
+        "counterpart": "White Co",
+        "status": "Pago",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "22",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "22",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Compra com Cartão",
+        "nature": "Pagamento",
+        "amount": "R$ 1.000,00",
+        "counterpart": "Blue Co",
+        "status": "Pago",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Compra com Cartão",
+        "nature": "Pagamento",
+        "amount": "R$ 500,00",
+        "counterpart": "White Co",
+        "status": "Pago",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Saque",
+        "nature": "Pagamento",
+        "amount": "R$ 100,00",
+        "counterpart": "Wood Developers",
+        "status": "Pago",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Tarifa: Saque",
+        "nature": "Pagamento",
+        "amount": "R$ 4,99",
+        "counterpart": "Wood Developers",
+        "status": "Pago",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Tarifa: Emissão de Boleto",
+        "nature": "Pagamento",
+        "amount": "R$ 2,89",
+        "counterpart": "Wood Developers",
+        "status": "Pago",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "25",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "25",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "Rentabilidade 100% CDI",
+        "nature": "Recebimento",
+        "amount": "R$ 2,00",
+        "counterpart": "Wood Developers",
+        "status": "Recebido",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "25",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "25",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019",
+          "hour": "14:30"
+        }
+      },
+      {
+        "title": "A Receber",
+        "nature": "Recebimento",
+        "amount": "R$ 5.000,00",
+        "counterpart": "White Co",
+        "status": "Em Atraso",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "25",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "A Receber",
+        "nature": "Recebimento",
+        "amount": "R$ 3.000,00",
+        "counterpart": "Blue Co",
+        "status": "Em Atraso",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "22",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "A Receber",
+        "nature": "Recebimento",
+        "amount": "R$ 1.500,00",
+        "counterpart": "Green Co",
+        "status": "Em Atraso",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "26",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "A Receber",
+        "nature": "Recebimento",
+        "amount": "R$ 7.500,00",
+        "counterpart": "Pink Co",
+        "status": "Em Atraso",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "19",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "A Receber",
+        "nature": "Recebimento",
+        "amount": "R$ 10.000,00",
+        "counterpart": "Red Co",
+        "status": "Em Atraso",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "18",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "A Receber",
+        "nature": "Recebimento",
+        "amount": "R$ 500,00",
+        "counterpart": "Yellow Co",
+        "status": "Em Atraso",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "18",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "A Receber",
+        "nature": "Recebimento",
+        "amount": "R$ 6.000,00",
+        "counterpart": "Brown Co",
+        "status": "Em Atraso",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "14",
+          "month": "Novembro",
+          "abrevMonth": "Nov",
+          "monthNum": "11",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      },
+      {
+        "title": "Compra com Cartão",
+        "nature": "Pagamento",
+        "amount": "R$ 2.000,00",
+        "counterpart": "Wood Co",
+        "status": "Vencimento Futuro",
+        "delayedTransaction": "Não",
+        "dueDate": {
+          "day": "05",
+          "month": "Dezembro",
+          "abrevMonth": "Dez",
+          "monthNum": "12",
+          "year": "2019"
+        },
+        "effectiveTransactionDate": {
+          "day": "",
+          "month": "",
+          "abrevMonth": "",
+          "monthNum": "",
+          "year": "",
+          "hour": ""
+        }
+      }
+    ]
+  }
+]
